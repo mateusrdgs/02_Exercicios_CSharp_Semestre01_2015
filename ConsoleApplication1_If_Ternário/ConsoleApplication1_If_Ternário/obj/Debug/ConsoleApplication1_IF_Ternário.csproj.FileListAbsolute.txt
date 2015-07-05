@@ -1,0 +1,9 @@
+c:\users\mateus\documents\visual studio 2013\Projects\ConsoleApplication1_IF_Ternário\ConsoleApplication1_IF_Ternário\bin\Debug\ConsoleApplication1_IF_Ternário.exe.config
+c:\users\mateus\documents\visual studio 2013\Projects\ConsoleApplication1_IF_Ternário\ConsoleApplication1_IF_Ternário\bin\Debug\ConsoleApplication1_IF_Ternário.exe
+c:\users\mateus\documents\visual studio 2013\Projects\ConsoleApplication1_IF_Ternário\ConsoleApplication1_IF_Ternário\bin\Debug\ConsoleApplication1_IF_Ternário.pdb
+c:\users\mateus\documents\visual studio 2013\Projects\ConsoleApplication1_IF_Ternário\ConsoleApplication1_IF_Ternário\obj\Debug\ConsoleApplication1_IF_Ternário.csprojResolveAssemblyReference.cache
+c:\users\mateus\documents\visual studio 2013\Projects\ConsoleApplication1_IF_Ternário\ConsoleApplication1_IF_Ternário\obj\Debug\ConsoleApplication1_IF_Ternário.exe
+c:\users\mateus\documents\visual studio 2013\Projects\ConsoleApplication1_IF_Ternário\ConsoleApplication1_IF_Ternário\obj\Debug\ConsoleApplication1_IF_Ternário.pdb
+D:\Sistemas de Informação\Visual Studio\Projects\ConsoleApplication1_If_Ternário\ConsoleApplication1_IF_Ternário\bin\Debug\ConsoleApplication1_IF_Ternário.exe.config
+D:\Sistemas de Informação\Visual Studio\Projects\ConsoleApplication1_If_Ternário\ConsoleApplication1_IF_Ternário\obj\Debug\ConsoleApplication1_IF_Ternário.exe
+D:\Sistemas de Informação\Visual Studio\Projects\ConsoleApplication1_If_Ternário\ConsoleApplication1_IF_Ternário\obj\Debug\ConsoleApplication1_IF_Ternário.pdb

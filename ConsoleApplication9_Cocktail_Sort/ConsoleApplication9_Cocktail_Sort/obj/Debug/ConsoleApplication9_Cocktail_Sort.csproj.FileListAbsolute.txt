@@ -1,0 +1,6 @@
+c:\users\mateus\documents\visual studio 2013\Projects\ConsoleApplication9_Cocktail_Sort\ConsoleApplication9_Cocktail_Sort\bin\Debug\ConsoleApplication9_Cocktail_Sort.exe.config
+c:\users\mateus\documents\visual studio 2013\Projects\ConsoleApplication9_Cocktail_Sort\ConsoleApplication9_Cocktail_Sort\bin\Debug\ConsoleApplication9_Cocktail_Sort.exe
+c:\users\mateus\documents\visual studio 2013\Projects\ConsoleApplication9_Cocktail_Sort\ConsoleApplication9_Cocktail_Sort\bin\Debug\ConsoleApplication9_Cocktail_Sort.pdb
+c:\users\mateus\documents\visual studio 2013\Projects\ConsoleApplication9_Cocktail_Sort\ConsoleApplication9_Cocktail_Sort\obj\Debug\ConsoleApplication9_Cocktail_Sort.csprojResolveAssemblyReference.cache
+c:\users\mateus\documents\visual studio 2013\Projects\ConsoleApplication9_Cocktail_Sort\ConsoleApplication9_Cocktail_Sort\obj\Debug\ConsoleApplication9_Cocktail_Sort.exe
+c:\users\mateus\documents\visual studio 2013\Projects\ConsoleApplication9_Cocktail_Sort\ConsoleApplication9_Cocktail_Sort\obj\Debug\ConsoleApplication9_Cocktail_Sort.pdb

@@ -1,0 +1,1 @@
+c:\users\mateus\documents\visual studio 2013\Projects\ConsoleApplication6_Quick_Sort\ConsoleApplication6_Quick_Sort\bin\Debug\ConsoleApplication6_Quick_Sort.exe.config

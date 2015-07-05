@@ -1,0 +1,6 @@
+c:\users\mateus\documents\visual studio 2013\Projects\ConsoleApplication13_ExBanco\ConsoleApplication13_ExBanco\bin\Debug\ConsoleApplication13_ExBanco.exe.config
+c:\users\mateus\documents\visual studio 2013\Projects\ConsoleApplication13_ExBanco\ConsoleApplication13_ExBanco\bin\Debug\ConsoleApplication13_ExBanco.exe
+c:\users\mateus\documents\visual studio 2013\Projects\ConsoleApplication13_ExBanco\ConsoleApplication13_ExBanco\bin\Debug\ConsoleApplication13_ExBanco.pdb
+c:\users\mateus\documents\visual studio 2013\Projects\ConsoleApplication13_ExBanco\ConsoleApplication13_ExBanco\obj\Debug\ConsoleApplication13_ExBanco.csprojResolveAssemblyReference.cache
+c:\users\mateus\documents\visual studio 2013\Projects\ConsoleApplication13_ExBanco\ConsoleApplication13_ExBanco\obj\Debug\ConsoleApplication13_ExBanco.exe
+c:\users\mateus\documents\visual studio 2013\Projects\ConsoleApplication13_ExBanco\ConsoleApplication13_ExBanco\obj\Debug\ConsoleApplication13_ExBanco.pdb

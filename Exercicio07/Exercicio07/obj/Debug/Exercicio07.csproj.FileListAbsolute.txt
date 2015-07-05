@@ -1,0 +1,12 @@
+c:\users\mateus\documents\visual studio 2013\Projects\Exercicio07\Exercicio07\bin\Debug\Exercicio07.exe.config
+C:\Users\Mateus\documents\visual studio 2013\Projects\Exercicio07\Exercicio07\obj\Debug\Exercicio07.csprojResolveAssemblyReference.cache
+C:\Users\Mateus\documents\visual studio 2013\Projects\Exercicio07\Exercicio07\bin\Debug\Exercicio07.exe
+C:\Users\Mateus\documents\visual studio 2013\Projects\Exercicio07\Exercicio07\bin\Debug\Exercicio07.pdb
+C:\Users\Mateus\documents\visual studio 2013\Projects\Exercicio07\Exercicio07\obj\Debug\Exercicio07.exe
+C:\Users\Mateus\documents\visual studio 2013\Projects\Exercicio07\Exercicio07\obj\Debug\Exercicio07.pdb
+C:\Users\Mateus\Documents\Visual Studio 2013\Projects\Exercicio07 - Cópia\Exercicio07\bin\Debug\Exercicio07.exe.config
+C:\Users\Mateus\Documents\Visual Studio 2013\Projects\Exercicio07 - Cópia\Exercicio07\obj\Debug\Exercicio07.exe
+C:\Users\Mateus\Documents\Visual Studio 2013\Projects\Exercicio07 - Cópia\Exercicio07\obj\Debug\Exercicio07.pdb
+C:\Users\Mateus\Documents\Visual Studio 2013\Projects\Exercicio07 - Cópia\Exercicio07\bin\Debug\Exercicio07.exe
+C:\Users\Mateus\Documents\Visual Studio 2013\Projects\Exercicio07 - Cópia\Exercicio07\bin\Debug\Exercicio07.pdb
+C:\Users\Mateus\Documents\Visual Studio 2013\Projects\Exercicio07 - Cópia\Exercicio07\obj\Debug\Exercicio07.csprojResolveAssemblyReference.cache

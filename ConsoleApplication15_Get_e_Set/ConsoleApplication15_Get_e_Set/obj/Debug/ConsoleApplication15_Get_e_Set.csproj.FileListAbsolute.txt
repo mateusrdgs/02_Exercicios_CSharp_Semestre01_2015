@@ -1,0 +1,6 @@
+c:\users\mateus\documents\visual studio 2013\Projects\ConsoleApplication15_Get_e_Set\ConsoleApplication15_Get_e_Set\bin\Debug\ConsoleApplication15_Get_e_Set.exe.config
+c:\users\mateus\documents\visual studio 2013\Projects\ConsoleApplication15_Get_e_Set\ConsoleApplication15_Get_e_Set\obj\Debug\ConsoleApplication15_Get_e_Set.csprojResolveAssemblyReference.cache
+c:\users\mateus\documents\visual studio 2013\Projects\ConsoleApplication15_Get_e_Set\ConsoleApplication15_Get_e_Set\bin\Debug\ConsoleApplication15_Get_e_Set.exe
+c:\users\mateus\documents\visual studio 2013\Projects\ConsoleApplication15_Get_e_Set\ConsoleApplication15_Get_e_Set\bin\Debug\ConsoleApplication15_Get_e_Set.pdb
+c:\users\mateus\documents\visual studio 2013\Projects\ConsoleApplication15_Get_e_Set\ConsoleApplication15_Get_e_Set\obj\Debug\ConsoleApplication15_Get_e_Set.exe
+c:\users\mateus\documents\visual studio 2013\Projects\ConsoleApplication15_Get_e_Set\ConsoleApplication15_Get_e_Set\obj\Debug\ConsoleApplication15_Get_e_Set.pdb

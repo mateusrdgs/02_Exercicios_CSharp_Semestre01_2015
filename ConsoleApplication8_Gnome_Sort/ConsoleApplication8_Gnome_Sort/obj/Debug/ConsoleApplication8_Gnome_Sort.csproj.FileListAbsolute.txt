@@ -1,0 +1,6 @@
+c:\users\mateus\documents\visual studio 2013\Projects\ConsoleApplication8_Gnome_Sort\ConsoleApplication8_Gnome_Sort\bin\Debug\ConsoleApplication8_Gnome_Sort.exe.config
+C:\Users\Mateus\documents\visual studio 2013\Projects\ConsoleApplication8_Gnome_Sort\ConsoleApplication8_Gnome_Sort\bin\Debug\ConsoleApplication8_Gnome_Sort.exe
+C:\Users\Mateus\documents\visual studio 2013\Projects\ConsoleApplication8_Gnome_Sort\ConsoleApplication8_Gnome_Sort\bin\Debug\ConsoleApplication8_Gnome_Sort.pdb
+C:\Users\Mateus\documents\visual studio 2013\Projects\ConsoleApplication8_Gnome_Sort\ConsoleApplication8_Gnome_Sort\obj\Debug\ConsoleApplication8_Gnome_Sort.csprojResolveAssemblyReference.cache
+C:\Users\Mateus\documents\visual studio 2013\Projects\ConsoleApplication8_Gnome_Sort\ConsoleApplication8_Gnome_Sort\obj\Debug\ConsoleApplication8_Gnome_Sort.exe
+C:\Users\Mateus\documents\visual studio 2013\Projects\ConsoleApplication8_Gnome_Sort\ConsoleApplication8_Gnome_Sort\obj\Debug\ConsoleApplication8_Gnome_Sort.pdb

@@ -1,0 +1,1 @@
+c:\users\mateus\documents\visual studio 2013\Projects\ConsoleApplication4_Selection_Sort\ConsoleApplication4_Selection_Sort\bin\Debug\ConsoleApplication4_Selection_Sort.exe.config

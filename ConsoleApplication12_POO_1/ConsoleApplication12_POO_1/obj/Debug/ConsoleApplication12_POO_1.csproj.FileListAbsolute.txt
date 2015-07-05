@@ -1,0 +1,9 @@
+c:\users\mateus\documents\visual studio 2013\Projects\ConsoleApplication12_POO_1\ConsoleApplication12_POO_1\bin\Debug\ConsoleApplication12_POO_1.exe.config
+c:\users\mateus\documents\visual studio 2013\Projects\ConsoleApplication12_POO_1\ConsoleApplication12_POO_1\bin\Debug\ConsoleApplication12_POO_1.exe
+c:\users\mateus\documents\visual studio 2013\Projects\ConsoleApplication12_POO_1\ConsoleApplication12_POO_1\bin\Debug\ConsoleApplication12_POO_1.pdb
+c:\users\mateus\documents\visual studio 2013\Projects\ConsoleApplication12_POO_1\ConsoleApplication12_POO_1\obj\Debug\ConsoleApplication12_POO_1.csprojResolveAssemblyReference.cache
+c:\users\mateus\documents\visual studio 2013\Projects\ConsoleApplication12_POO_1\ConsoleApplication12_POO_1\obj\Debug\ConsoleApplication12_POO_1.exe
+c:\users\mateus\documents\visual studio 2013\Projects\ConsoleApplication12_POO_1\ConsoleApplication12_POO_1\obj\Debug\ConsoleApplication12_POO_1.pdb
+D:\Sistemas de Informação\Visual Studio\Projects\ConsoleApplication12_POO_1\ConsoleApplication12_POO_1\bin\Debug\ConsoleApplication12_POO_1.exe.config
+D:\Sistemas de Informação\Visual Studio\Projects\ConsoleApplication12_POO_1\ConsoleApplication12_POO_1\obj\Debug\ConsoleApplication12_POO_1.exe
+D:\Sistemas de Informação\Visual Studio\Projects\ConsoleApplication12_POO_1\ConsoleApplication12_POO_1\obj\Debug\ConsoleApplication12_POO_1.pdb

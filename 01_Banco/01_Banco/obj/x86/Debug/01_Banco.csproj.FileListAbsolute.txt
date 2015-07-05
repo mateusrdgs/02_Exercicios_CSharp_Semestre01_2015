@@ -1,0 +1,7 @@
+D:\Sistemas de Informação\Visual Studio\Projects\01_Banco\01_Banco\obj\x86\Debug\01_Banco.csprojResolveAssemblyReference.cache
+D:\Sistemas de Informação\Visual Studio\Projects\01_Banco\01_Banco\bin\Debug\01_Banco.exe
+D:\Sistemas de Informação\Visual Studio\Projects\01_Banco\01_Banco\bin\Debug\01_Banco.pdb
+D:\Sistemas de Informação\Visual Studio\Projects\01_Banco\01_Banco\obj\x86\Debug\01_Banco.exe
+D:\Sistemas de Informação\Visual Studio\Projects\01_Banco\01_Banco\obj\x86\Debug\01_Banco.pdb
+D:\Programação e Desenvolvimento\Repositórios\02_Exercicios_CSharp_Semestre01_2015\01_Banco\01_Banco\obj\x86\Debug\01_Banco.exe
+D:\Programação e Desenvolvimento\Repositórios\02_Exercicios_CSharp_Semestre01_2015\01_Banco\01_Banco\obj\x86\Debug\01_Banco.pdb

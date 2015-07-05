@@ -1,0 +1,6 @@
+c:\users\mateus\documents\visual studio 2013\Projects\Exercicio02\Exercicio02\bin\Debug\Exercicio02.exe.config
+c:\users\mateus\documents\visual studio 2013\Projects\Exercicio02\Exercicio02\bin\Debug\Exercicio02.exe
+c:\users\mateus\documents\visual studio 2013\Projects\Exercicio02\Exercicio02\bin\Debug\Exercicio02.pdb
+c:\users\mateus\documents\visual studio 2013\Projects\Exercicio02\Exercicio02\obj\Debug\Exercicio02.csprojResolveAssemblyReference.cache
+c:\users\mateus\documents\visual studio 2013\Projects\Exercicio02\Exercicio02\obj\Debug\Exercicio02.exe
+c:\users\mateus\documents\visual studio 2013\Projects\Exercicio02\Exercicio02\obj\Debug\Exercicio02.pdb

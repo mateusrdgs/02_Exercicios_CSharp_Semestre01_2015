@@ -1,0 +1,1 @@
+c:\users\mateus\documents\visual studio 2013\Projects\ConsoleApplication2_Bubble_Sort_Palavras\ConsoleApplication2_Bubble_Sort_Palavras\bin\Debug\ConsoleApplication2_Bubble_Sort_Palavras.exe.config

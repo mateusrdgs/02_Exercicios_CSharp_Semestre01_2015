@@ -1,0 +1,6 @@
+c:\users\mateus\documents\visual studio 2013\Projects\ConsoleApplication14_Serialização\ConsoleApplication14_Serialização\bin\Debug\ConsoleApplication14_Serialização.exe.config
+c:\users\mateus\documents\visual studio 2013\Projects\ConsoleApplication14_Serialização\ConsoleApplication14_Serialização\obj\Debug\ConsoleApplication14_Serialização.csprojResolveAssemblyReference.cache
+c:\users\mateus\documents\visual studio 2013\Projects\ConsoleApplication14_Serialização\ConsoleApplication14_Serialização\bin\Debug\ConsoleApplication14_Serialização.exe
+c:\users\mateus\documents\visual studio 2013\Projects\ConsoleApplication14_Serialização\ConsoleApplication14_Serialização\bin\Debug\ConsoleApplication14_Serialização.pdb
+c:\users\mateus\documents\visual studio 2013\Projects\ConsoleApplication14_Serialização\ConsoleApplication14_Serialização\obj\Debug\ConsoleApplication14_Serialização.exe
+c:\users\mateus\documents\visual studio 2013\Projects\ConsoleApplication14_Serialização\ConsoleApplication14_Serialização\obj\Debug\ConsoleApplication14_Serialização.pdb
